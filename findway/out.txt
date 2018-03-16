@@ -1,0 +1,11 @@
+    inf    inf    inf    inf    inf    inf    inf    inf    inf    inf    inf    inf    inf    inf   inf   inf   inf   inf
+    inf    inf    inf    inf    inf    inf    inf  13.49  12.90  13.31  14.65    inf    inf     inf   inf   inf   inf   inf
+    inf    inf    inf    inf    inf    inf    inf  12.07  12.07  12.07  12.66  14.07    inf    inf   inf   inf   inf   inf
+    inf    inf    inf    inf    inf    inf    inf    inf    inf    inf  11.82  13.19    inf    inf   inf   inf   inf   inf
+    inf    inf    inf    inf   5.61   3.83   2.24   3.00   4.24    inf  11.26  12.54  13.87    inf   inf   inf   inf   inf
+    inf  13.78  12.49    inf   6.66   5.02   4.16   4.41   5.58    inf  10.90  12.07  13.90    inf   inf   inf   inf   inf
+    inf  13.87  12.06    inf   7.83   6.89   6.12   6.41   6.95    inf  10.66  12.31  14.89    inf   inf   inf   inf   inf
+    inf  14.88  12.31  10.65   9.66   8.80   8.10   8.41   8.93   9.63  11.07  13.47    inf    inf   inf   inf   inf   inf
+    inf    inf  13.47  12.45  11.54  10.74  10.08  10.41  10.91  11.57  12.37  13.87    inf    inf   inf   inf   inf   inf
+Found goal in 227 steps
+[[6, 4], [7, 3], [8, 2], [9, 1], [10, 2], [10, 3], [10, 4], [10, 5], [9, 6], [8, 6], [7, 6]]
